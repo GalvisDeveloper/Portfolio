@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name": "Cristian Bustos",
+    "occupation": "ReactJS Developer Beginner && Student from Francisco de Paula Santander University",
+    "description": "Growing up my knowledge about React Js and becoming in a great developer",
+    "image": "Cristian.jpg",
+    "bio": "My name is Cristian, I'm a beginner ReactJS Developer. Currently I'm studying at UFPS",
+    "contactMessage": "Get in touch with me to receive further details",
+    "email": "cristianarbeybg@ufps.edu.co",
+    "phone": "+57 3178064320",
+    "address": {
+      "street": "Torcoroma 3",
+      "city": "Cúcuta",
+      "state": "Colombia"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/cristianicbf",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cristianbg97/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/cristian.bg97/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/cristianufps",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Short write-up of my skills",
+    "education": [
+      {
+        "school": "Francisco de Paula Santander University",
+        "degree": "Systems Engineering",
+        "graduated": "Not Yet",
+        "description": "Still Studying"
+      }
+    ],
+    "work": [
+      {
+        "company": "None",
+        "title": "None",
+        "years": "None",
+        "description": "None"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "phpMyAdmin",
+        "level": "65%"
+      },
+      {
+        "name": "Java",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Web Clone",
+        "category": "WhatsApp Web Clone built with React Js (Hooks, Redux)",
+        "image": "whatsappclone-mainview.PNG",
+        "url": "https://whatsappclone-rjs.web.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
