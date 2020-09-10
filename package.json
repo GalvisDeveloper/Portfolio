@@ -32,5 +32,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianufps/Portfolio.git"
+  },
+  "author": "Cristian Bustos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianufps/Portfolio/issues"
+  },
+  "homepage": "https://github.com/cristianufps/Portfolio#readme"
 }
